@@ -33,7 +33,8 @@ As artificial intelligence becomes more autonomous in areas such as **self-drivi
 - **Bias in AI Systems**: AI models may **inherit biases** from training data, leading to unintended ethical consequences.
 
 ## 📄 Research Paper
-The full research paper is available in the **`paper/`** directory.
+The full research paper is available in the [paper/](./paper/) directory.
+
 
 
 ## 📚 References & Further Reading
